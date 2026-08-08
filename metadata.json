@@ -1,0 +1,6 @@
+{
+  "name": "RoutineFlow",
+  "description": "Convert uploaded PDF routines into interactive schedules with intelligent parsing, countdowns, filters, and personalized views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
